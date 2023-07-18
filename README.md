@@ -1,5 +1,7 @@
 # Matrices
 
+![matrices](/Matrices/images/matrices.jpg)
+
 A library to work with matrices. Contains the following functions:
 
 * Create a matrix;
